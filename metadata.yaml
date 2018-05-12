@@ -1,0 +1,37 @@
+_repo: Conscript-2989Experiences-of-a-Drafted-Man_36832
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Martin, H. B.
+    gutenberg_agent_id: '37553'
+    url: http://www.gutenberg.org/2009/agents/37553
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crump, Irving
+    aliases:
+    - Crump, J. Irving (James Irving)
+    - Crump, James Irving
+    birthdate: 1887
+    deathdate: 1979
+    gutenberg_agent_id: '34618'
+    url: http://www.gutenberg.org/2009/agents/34618
+description: ''
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36832'
+  lccn: '18005208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army -- Military life'
+- !lcsh 'Military training camps -- United States'
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: 'Conscript 2989: Experiences of a Drafted Man'
+url: http://www.gutenberg.org/ebooks/36832
